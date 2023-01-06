@@ -1,9 +1,9 @@
 # Overview
 how to create a folder on your desktop and run your first program in VS Code.
-using the print function in Python to print out "Hello World."
+Using the print function in Python to print out "Hello World."
 
 
-Video: [how to use print function?](https://www.youtube.com/watch?v=q1gDub_ZM98)
+Video: [how to use print function on python?](https://www.youtube.com/watch?v=q1gDub_ZM98)
 
 # Development Environment
 
